@@ -1,0 +1,7 @@
+.inicio{
+    background-image: url("./img1.jpeg");
+    height: 590px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
