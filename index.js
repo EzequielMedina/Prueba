@@ -34,7 +34,10 @@ $(document).ready(function(){
         errorElement: "em"
     });
 
-
+$("#buttonBuscar").click(function (e) { 
+    alert($("#buscar").val())
+    
+});
 });
 
 $.validator.setDefaults({
